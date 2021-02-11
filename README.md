@@ -72,7 +72,7 @@ To Tsang           | Team Member           | ENTER GITHUB USERNAME HERE   | Virt
 Tamara Wojdylo     | Team Member           | TamaraWo                     | Virtual/Fall '20
 Dan Flanigan       | Team Member           | danflanigan                  | Virtual/Fall '21
 Peter White        | Team Member           | pawhite-gh                   | Virtual/Fall '21
-Justin Barss       | Team Member           | ENTER GITHUB USERNAME HERE   | Virtual/Fall '21
+Justin Barss       | Team Member           | Justin NiM                   | Virtual/Fall '21
 Abby Morrow        | Team Member           | ENTER GITHUB USERNAME HERE   | Virtual/Fall '21
 Eugene Chan        | Team Member           | ENTER GITHUB USERNAME HERE   | Virtual/Fall '21
 Jay Delaune        | Team Member           | ENTER GITHUB USERNAME HERE   | Virtual/Fall '21
